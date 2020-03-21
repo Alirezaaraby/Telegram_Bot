@@ -8,56 +8,13 @@
    "Tasks": [
 	
       {
-        //Class Name
         "Name": "دهم",
-        //Date
+        
         "Date": "شنبه",
-        //Time
+        
         "Time":"۷:۰۰ : زمان",
-        // Description
+        
         "Description": "مدرس:نیما شیرپور",
       }
-	
-      // {
-      //   "id": "1",
-      //   "Date": "1,2,3",
-      //   "Time":"1:1",
-      //   "Description": "Hello World",
-      // },
-      
-      // {
-      //   "id": "1",
-      //   "Date": "سلام",
-      //   "Time":"1:1",
-      //   "Description": "Hello World",
-      // },
-      
-      // {
-      //   "id": "1",
-      //   "Date": "1,2,3",
-      //   "Time":"1:1",
-      //   "Description": "Hello World",
-      // },
-	
-      // {
-      //   "id": "1",
-      //   "Date": "1,2,3",
-      //   "Time":"1:1",
-      //   "Description": "Hello World",
-      // },
-      
-      // {
-      //   "id": "1",
-      //   "Date": "1,2,3",
-      //   "Time":"1:1",
-      //   "Description": "Hello World",
-      // },
-	
-      // {
-      //   "id": "1",
-      //   "Date": "1,2,3",
-      //   "Time":"1:1",
-      //   "Description": "Hello World",
-      // },
    ]
 }
